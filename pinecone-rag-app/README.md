@@ -1,5 +1,6 @@
 # Pinecone RAG Project
 
+### Author: Raquel Selma
 This repository contains the implementation of a Retrieval-Augmented Generation (RAG) system using LangChain, Google Gemini, and Pinecone.
 
 ## Architecture
@@ -85,3 +86,4 @@ Here are some screenshots demonstrating the working application:
 ### 3. Project Setup
 ![VS Code Setup](imag/vscode_setup.png)
 *Project structure and LCEL implementation in VS Code.*
+
