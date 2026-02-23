@@ -76,14 +76,16 @@ The primary objective of the AREP LAB04 is to introduce students to the fundamen
 Here are some screenshots demonstrating the working application:
 
 ### 1. Terminal Execution
-![Terminal Output](imag/Terminal.png)
+<img width="1530" height="253" alt="Terminal" src="https://github.com/user-attachments/assets/d691c559-165f-416c-bbca-cf663eebc1e5" />
+
 *Successful execution of the RAG system answering a query based on the knowledge base.*
 
 ### 2. Pinecone Vector Database
-![Pinecone Index](imag/pinecone.png)
+<img width="1898" height="845" alt="Pinecone" src="https://github.com/user-attachments/assets/b52da98c-9c89-4a05-b805-fcc27b8bff00" />
+
 *The `lab04-index-v3` index created in Pinecone, storing the 768-dimensional vector embeddings.*
 
 ### 3. Project Setup
-![VS Code Setup](imag/vscode_setup.png)
-*Project structure and LCEL implementation in VS Code.*
+<img width="1348" height="996" alt="vscode_setup" src="https://github.com/user-attachments/assets/55d8a9c1-0e39-495e-a44c-891aba754de8" />
 
+*Project structure and LCEL implementation in VS Code.*
