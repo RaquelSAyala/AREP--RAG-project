@@ -64,6 +64,8 @@ def main():
     )
 
     # 6. Setup Retrieval Chain
+    # NOTE: Here we see the evolution from Lab 1. 
+    # We reuse the LLM and the Prompt, but we inject the context retrieved from Pinecone.
     llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0)
     
     template = """Answer the question based only on the following context:
